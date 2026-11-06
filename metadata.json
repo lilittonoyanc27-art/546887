@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Español - Հայերեն",
+  "description": "Իսպաներեն և հայերեն Pasapalabra խաղ (A2–B1). 27 հարց և պատասխան, թարգմանությունների ակնթարթային ցուցադրում, ձայնային էֆեկտներ և Rosco մարտահրավեր:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
